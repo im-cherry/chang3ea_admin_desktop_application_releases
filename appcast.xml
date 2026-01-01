@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>창세계 관리자 주문관리 프로그램</title>
+        <description>창세계 관리자 주문관리 프로그램입니다</description>
+        <language>en</language>
+
+        <!-- windows -->
+        <item>
+            <title>Version 1.0.0 for Windows</title>
+            <description><![CDATA[
+                <b>기능 업데이트 및 추가 안내 (Windows - 1.0.0)</b><br>
+                ✅ 거래처(공장)<br>
+                ✅ 거래처(비회원)<br>
+                ✅ 재입고일정(블라인드)<br>
+                ✅ 게시판(공지사항)<br>
+                ✅ 게시판(자주묻는질문)<br>
+                ✅ 영업시간/회사(영업시간)<br>
+                ✅ 영업시간/회사(휴무일)<br>
+                ✅ 영업시간/회사(회사정보)<br>
+                ✅ 내정보<br>
+                ✅ 로그인 & 로그아웃
+            ]]></description>
+            <pubDate>Fri, 02 Jan 2026 07:30:00 +0900</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:os>windows</sparkle:os>
+            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.exe"
+                       sparkle:dsaSignature="MD0CHQCinItZWfoOYQz1o/b0apGPVQngUya9Dyj+Lqv2Ahx0naoaqDQuP86Zxr9EcE8Fl3EG/N7x8zQGYO2A"
+                       length="13006682"
+                       type="application/octet-stream" />
+        </item>
+        <!-- // -->
+
+        <!-- macos -->
+        <item>
+            <title>Version 1.0.0 for Mac</title>
+            <description><![CDATA[
+                <b>기능 업데이트 및 추가 안내 (MacOS - 1.0.0)</b><br>
+                ✅ 거래처(공장)<br>
+                ✅ 거래처(비회원)<br>
+                ✅ 재입고일정(블라인드)<br>
+                ✅ 게시판(공지사항)<br>
+                ✅ 게시판(자주묻는질문)<br>
+                ✅ 영업시간/회사(영업시간)<br>
+                ✅ 영업시간/회사(휴무일)<br>
+                ✅ 영업시간/회사(회사정보)<br>
+                ✅ 내정보<br>
+                ✅ 로그인 & 로그아웃
+            ]]></description>
+            <pubDate>Fri, 02 Jan 2026 07:30:00 +0900</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:os>macos</sparkle:os>
+            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.zip"
+                       sparkle:dsaSignature="FB6aew+oe0EOBhhpujs8XMpFdql0mox/Cjx3m6cG/dgTqapg17t8ziLtHaVUZmeEnuby0Xg6EWe98rBuwfL+Dw=="
+                       length="23088181"
+                       type="application/octet-stream" />
+        </item>
+        <!-- // -->
+    </channel>
+</rss>
