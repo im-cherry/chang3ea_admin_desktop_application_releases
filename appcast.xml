@@ -7,19 +7,19 @@
 
         <!-- macos -->
         <item>
-            <title>Version 1.1.6 for MacOS</title>
+            <title>Version 1.1.7 for MacOS</title>
             <description><![CDATA[
-                <b>기능 업데이트 및 추가 안내 (MacOS - 1.1.6)</b><br>
+                <b>기능 업데이트 및 추가 안내 (MacOS - 1.1.7)</b><br>
                 ✅ 자동 업데이트<br>
             ]]></description>
-            <pubDate>Fri, 02 Jan 2026 14:40:00 +0900</pubDate>
-            <sparkle:version>16</sparkle:version> 
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <pubDate>Fri, 02 Jan 2026 15:30:00 +0900</pubDate>
+            <sparkle:version>17</sparkle:version> 
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
             <sparkle:os>macos</sparkle:os>
-            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/Chang3eaPOS-1.1.6-macos.zip"
-                       sparkle:edSignature="xSq4CrIkoO+zTToe45OKuuduiofJnwbeqQ3/CpqO9ePNw1rKoXPDmyH3tUAQztjMcr1/d922NfjCf6aJSOr2AA=="
+            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/Chang3eaPOS-1.1.7-macos.zip"
+                       sparkle:edSignature="6PTOUzG3m0arqL72Yf6eFygGf3HO+bhTptDd/MrlpZNJrBvTtgaPpq6Iea6uYtN6V8oS2qqFhEEDgcSAMlHWAg=="
                        length="22230159"
-                       sparkle:version="1.1.6"
+                       sparkle:version="1.1.7"
                        sparkle:os="macos"
                        type="application/octet-stream" />
         </item>
@@ -27,22 +27,21 @@
 
         <!-- windows -->
         <item>
-            <title>Version 1.1.6 for Windows</title>
+            <title>Version 1.1.7 for Windows</title>
             <description><![CDATA[
-                <b>기능 업데이트 및 추가 안내 (Windows - 1.1.6)</b><br>
+                <b>기능 업데이트 및 추가 안내 (Windows - 1.1.7)</b><br>
                 ✅ 자동 업데이트<br>
             ]]></description>
-            <pubDate>Fri, 02 Jan 2026 14:40:00 +0900</pubDate>
-            <sparkle:version>1.1.6</sparkle:version>
+            <pubDate>Fri, 02 Jan 2026 15:30:00 +0900</pubDate>
+            <sparkle:version>1.1.7</sparkle:version>
             <sparkle:os>windows</sparkle:os>
-            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/Chang3eaPOS-1.1.6-windows-setup.exe"
-                       sparkle:dsaSignature="MD4CHQCWrEjW1nFUOAMlYLmjQu1PLPAnqBSr1SZNvkThAh0Asuq99C1fHvymB3xBh5SonhGG15wM3RhJ2IV1qw=="
-                       length="12823107"
-                       sparkle:version="1.1.6"
+            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/Chang3eaPOS-1.1.7-windows-setup.exe"
+                       sparkle:dsaSignature="MD0CHDR+GYydShpAHP8kmQVR+8nfVP5V7wOY8ltDGBQCHQCpeKlR/sOTKBvT1F+tzkCX3gUPg68/tpTuTbL0"
+                       length="12824513"
+                       sparkle:version="1.1.7"
                        sparkle:os="windows"
                        type="application/octet-stream" />
         </item>
         <!-- // -->
     </channel>
-
 </rss>
