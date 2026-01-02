@@ -35,7 +35,7 @@
             <pubDate>Fri, 02 Jan 2026 14:40:00 +0900</pubDate>
             <sparkle:version>1.1.6</sparkle:version>
             <sparkle:os>windows</sparkle:os>
-            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/Chang3eaPOS-1.1.6-windows-setup"
+            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/Chang3eaPOS-1.1.6-windows-setup.exe"
                        sparkle:dsaSignature="MD4CHQCWrEjW1nFUOAMlYLmjQu1PLPAnqBSr1SZNvkThAh0Asuq99C1fHvymB3xBh5SonhGG15wM3RhJ2IV1qw=="
                        length="12823107"
                        sparkle:version="1.1.6"
@@ -44,4 +44,5 @@
         </item>
         <!-- // -->
     </channel>
+
 </rss>
