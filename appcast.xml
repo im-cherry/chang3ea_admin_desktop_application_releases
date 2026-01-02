@@ -7,19 +7,19 @@
 
         <!-- macos -->
         <item>
-            <title>Version 1.0.8 for MacOS</title>
+            <title>Version 1.0.9 for MacOS</title>
             <description><![CDATA[
-                <b>기능 업데이트 및 추가 안내 (MacOS - 1.0.8)</b><br>
+                <b>기능 업데이트 및 추가 안내 (MacOS - 1.0.9)</b><br>
                 ✅ 자동 업데이트<br>
             ]]></description>
-            <pubDate>Fri, 02 Jan 2026 11:30:00 +0900</pubDate>
-            <sparkle:version>108</sparkle:version> 
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <pubDate>Fri, 02 Jan 2026 12:00:00 +0900</pubDate>
+            <sparkle:version>109</sparkle:version> 
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:os>macos</sparkle:os>
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.zip"
-                       sparkle:edSignature="e//3Wo9uD3gODRMiWENlbqk3oZLvTgnUwbNqHkWPaxR1V/A5cGDpVSAlDl8r2oSyVSbSXqLCni70nXfw/2W9CQ=="
-                       length="23085057"
-                       sparkle:version="1.0.8"
+                       sparkle:edSignature="XJA2KdIvyzI6jFpksgzF6Y+aRAiq2pxmTg8NbFkcYp+eIaujRNU+jz3ABYM0snncW620xLeBqt/Mp10ZOUnzAg=="
+                       length="23084700"
+                       sparkle:version="1.0.9"
                        sparkle:os="macos"
                        type="application/octet-stream" />
         </item>
@@ -27,18 +27,18 @@
 
         <!-- windows -->
         <item>
-            <title>Version 1.0.8 for Windows</title>
+            <title>Version 1.0.9 for Windows</title>
             <description><![CDATA[
-                <b>기능 업데이트 및 추가 안내 (Windows - 1.0.8)</b><br>
+                <b>기능 업데이트 및 추가 안내 (Windows - 1.0.9)</b><br>
                 ✅ 자동 업데이트<br>
             ]]></description>
-            <pubDate>Fri, 02 Jan 2026 11:30:00 +0900</pubDate>
-            <sparkle:version>1.0.8</sparkle:version>
+            <pubDate>Fri, 02 Jan 2026 12:00:00 +0900</pubDate>
+            <sparkle:version>1.0.9</sparkle:version>
             <sparkle:os>windows</sparkle:os>
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.exe"
-                       sparkle:dsaSignature="MD0CHQCgeN2bedBjzX4jZFQzAIlDl5j0dAGwl129QZymAhxJU5wVGoT7oAiDp5aXuUvSg7VFaeJj87eEZXQG"
-                       length="13007288"
-                       sparkle:version="1.0.8"
+                       sparkle:dsaSignature="MDwCHA9otm9Pa2mzdfXt9sk494FwQeklWnNdRpG5ufgCHBQYIn0CDRD0RLKl2O7ybupFJVmnnlMinvaHH+I="
+                       length="13006582"
+                       sparkle:version="1.0.9"
                        sparkle:os="windows"
                        type="application/octet-stream" />
         </item>
