@@ -13,7 +13,7 @@
                 ✅ 자동 업데이트<br>
             ]]></description>
             <pubDate>Fri, 02 Jan 2026 11:00:00 +0900</pubDate>
-            <sparkle:version>105</sparkle:version> 
+            <sparkle:version>106</sparkle:version> 
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:os>macos</sparkle:os>
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.zip"
@@ -44,4 +44,5 @@
         </item>
         <!-- // -->
     </channel>
+
 </rss>
