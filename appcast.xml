@@ -16,9 +16,9 @@
             <sparkle:version>12</sparkle:version> 
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:os>macos</sparkle:os>
-            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.zip"
-                       sparkle:edSignature="TW+WWy3Zb4Pxc6O6UjoZXTaHbp65WLKxja/hDZapxH8hSi1QC+6l8JHWjRGMC9XSHqPz7Fz60EYy7iT0aKcGDQ=="
-                       length="22231263"
+            <enclosure url="https://github.com/im-cherry/Chang3eaPOS_releases/raw/main/setup.zip"
+                       sparkle:edSignature="5aqeAgM5IH7y+NeC49vQTU3Mf6xGwu+FbcJYeord1Bl2FIo8O0kO/R3pU6/Y1UP5raoBWeaAf/pDGbPcDw4FDw=="
+                       length="22230118"
                        sparkle:version="1.1.2"
                        sparkle:os="macos"
                        type="application/octet-stream" />
@@ -35,9 +35,9 @@
             <pubDate>Fri, 02 Jan 2026 12:30:00 +0900</pubDate>
             <sparkle:version>1.1.2</sparkle:version>
             <sparkle:os>windows</sparkle:os>
-            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.exe"
-                       sparkle:dsaSignature="MDwCHHMpIIaa/HAu6QsSHoaGCHzAhdnT8EzDDvLyl+ECHD6choscmaxWUgtqjJi8P7qPmflV1G1NfEjJbCE="
-                       length="12823261"
+            <enclosure url="https://github.com/im-cherry/Chang3eaPOS_releases/raw/main/setup.exe"
+                       sparkle:dsaSignature="MD0CHF6Yt7CluUYxt33Fj5x2+8IgU0juNn3wLglZgJwCHQCaFLcDUAqzUzMtNswOZQ7NFjJTsBAqz79qUpfg"
+                       length="12825341"
                        sparkle:version="1.1.2"
                        sparkle:os="windows"
                        type="application/octet-stream" />
