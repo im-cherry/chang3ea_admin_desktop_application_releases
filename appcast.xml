@@ -5,36 +5,41 @@
         <description>창세계 관리자 주문관리 프로그램입니다</description>
         <language>en</language>
 
-        <!-- windows -->
+        <!-- macos -->
         <item>
-            <title>Version 1.0.1 for Windows</title>
+            <title>Version 1.0.2 for MacOS</title>
             <description><![CDATA[
-                <b>기능 업데이트 및 추가 안내 (Windows - 1.0.1)</b><br>
+                <b>기능 업데이트 및 추가 안내 (MacOS - 1.0.2)</b><br>
                 ✅ 자동 업데이트<br>
             ]]></description>
-            <pubDate>Fri, 02 Jan 2026 09:00:00 +0900</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:os>windows</sparkle:os>
-            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.exe"
-                       sparkle:dsaSignature="MD0CHQCinItZWfoOYQz1o/b0apGPVQngUya9Dyj+Lqv2Ahx0naoaqDQuP86Zxr9EcE8Fl3EG/N7x8zQGYO2A"
-                       length="13006682"
+            <pubDate>Fri, 02 Jan 2026 09:30:00 +0900</pubDate>
+            <sparkle:version>102</sparkle:version> 
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:os>macos</sparkle:os>
+            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.zip"
+                       sparkle:dsaSignature="Ew0empSCiN+hO9Eor/7xbglUoeSleVBIJpn0/qazDJ5q/L7iFtYhtFGCuVOL8AEDZzA3WUCAjo7x8/CGO+DRBA=="
+                       sparkle:version="1.0.2"
+                       sparkle:os="macos"
+                       length="23088173"
                        type="application/octet-stream" />
         </item>
         <!-- // -->
 
-        <!-- macos -->
+        <!-- windows -->
         <item>
-            <title>Version 1.0.1 for Mac</title>
+            <title>Version 1.0.2 for Windows</title>
             <description><![CDATA[
-                <b>기능 업데이트 및 추가 안내 (MacOS - 1.0.1)</b><br>
+                <b>기능 업데이트 및 추가 안내 (Windows - 1.0.2)</b><br>
                 ✅ 자동 업데이트<br>
             ]]></description>
-            <pubDate>Fri, 02 Jan 2026 09:00:00 +0900</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:os>macos</sparkle:os>
-            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.zip"
-                       sparkle:dsaSignature="Bo19dVt6hxF66Hgb5U929KzuqQcZPei3Q0qQ8kuYVOwpYVMCFBeUtQIw+wyvVofaZxbv7ee9z/KO+gWF04SZAg=="
-                       length="23088180"
+            <pubDate>Fri, 02 Jan 2026 09:30:00 +0900</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:os>windows</sparkle:os>
+            <enclosure url="https://github.com/im-cherry/chang3ea_admin_desktop_application_releases/raw/main/setup.exe"
+                       sparkle:dsaSignature="MDwCHG/oWw6s792OguCzX6sdMsyXdRhlXgrNhhzWP8MCHFpV0Fy05BKHJLNfTZ1BxggBKcwb/H4QmnhNS2Y="
+                       sparkle:version="1.0.2"
+                       sparkle:os="windows"
+                       length="13005683"
                        type="application/octet-stream" />
         </item>
         <!-- // -->
